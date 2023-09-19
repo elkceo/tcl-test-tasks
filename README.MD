@@ -9,7 +9,7 @@
 #### Clone repository
 
 ```
-git@github.com:crazzyghost/alphavantage-java.git
+git@github.com:elkceo/tcl-test-tasks.git
 ```
 
 #### Run tests :
